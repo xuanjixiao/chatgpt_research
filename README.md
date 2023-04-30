@@ -23,4 +23,7 @@
 
 # chatgpt application
 
-1 can chaggpt replace recommendation system? 1)in the accuracy metric, chatgpt can't beat current RS. 2)in other ereas, such as content eco-system, user increasement, chatgpt can not even understand the question or we can't give it promts.
+* chatgtpt vs RS (disadvantage). can chaggpt replace recommendation system? 1)in the accuracy metric, chatgpt can't beat current RS. 2)in other ereas, such as content eco-system, user increasement, chatgpt can not even understand the question or we can't give it promts. 
+
+* chatgpt vs RS (advantage). it' s basially search. It provides so much good result so that we dont need to scan pages. but different like Search, besides relevance, it can provide quick fix to negtive feedback, interpretallity, and other  metrics. So it can have more utilities than RS had.
+
