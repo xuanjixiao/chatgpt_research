@@ -27,5 +27,5 @@
 
 * chatgpt vs RS (advantage). it' s basially search. It provides so much good result so that we dont need to scan pages. but different like Search, besides relevance, it can provide quick fix to negtive feedback, interpretallity, and other  metrics. So it can have more utilities than RS had.
 
-* from human's perspective, all that gpt cant do maybe the long term optimization and content-side eco-system.
+* from human's perspective, people dont pay so much attention to the RS accuracy, and dont care about the content-side eco-system. So maybe the origin RS will be the backbone of chatgpt-REC, or some lightweight correction tools
 
